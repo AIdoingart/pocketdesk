@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "pocketdesk.zip",
+  "items": [
+    "PocketDesk.sh",
+    "pocketdesk"
+  ],
+  "items_opt": null,
+  "attr": {
+    "title": "PocketDesk",
+    "desc": "Offline retro PDA toolkit for handhelds. Directed by Gabriel Freitas as a guided learning project.",
+    "inst": "Requires the Love2D 11.5 runtime in PortMaster. Launch PocketDesk from Ports after installation.",
+    "genres": [
+      "utility"
+    ],
+    "porter": [
+      "Gabriel Freitas"
+    ],
+    "image": {},
+    "rtr": true,
+    "runtime": "love_11.5",
+    "reqs": [],
+    "arch": null
+  }
+}

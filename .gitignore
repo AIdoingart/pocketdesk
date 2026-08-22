@@ -1,0 +1,24 @@
+# Generated archives and historical builds
+outputs/*.zip
+!outputs/pocketdesk-portmaster-love-1.0.zip
+!outputs/PocketDesk_publication_docs.zip
+!outputs/PocketDesk_PortMaster_submission_draft.zip
+outputs/PocketDesk.sh
+outputs/pocketdesk-cover.png
+outputs/pocketdesk/
+outputs/pocketdesk-portmaster-love/
+outputs/pocketdesk-portmaster-love-1.0/
+outputs/pocketdesk-portmaster-love-v26/
+
+# Temporary / working files
+work/
+scratch/
+
+# Old Python prototype kept locally, not part of the 1.0 PortMaster release
+/pocketdesk/
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store

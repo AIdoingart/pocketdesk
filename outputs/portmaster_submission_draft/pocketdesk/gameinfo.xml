@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./PocketDesk.sh</path>
+    <name>PocketDesk</name>
+    <desc>Offline retro PDA toolkit for R36S and PortMaster. Directed by Gabriel Freitas as a guided learning project with Codex-assisted development.</desc>
+    <releasedate>20260821T000000</releasedate>
+    <developer>Gabriel Freitas</developer>
+    <publisher>Gabriel Freitas</publisher>
+    <genre>Utility</genre>
+    <image>./pocketdesk/media/cover.png</image>
+  </game>
+</gameList>
