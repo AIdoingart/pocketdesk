@@ -1,5 +1,7 @@
 # PocketDesk
 
+![PocketDesk cover](pocketdesk_port/pocketdesk/media/cover.png)
+
 PocketDesk is an offline retro PDA toolkit for handheld Linux devices, built first for the R36S running dArkOS RE through PortMaster.
 
 This repository documents the first complete version of the project and the guided learning process behind it.
@@ -73,4 +75,3 @@ Veja tambem:
 - [PROCESSO_PT.md](PROCESSO_PT.md)
 - [PROCESS_EN.md](PROCESS_EN.md)
 - [PORTMASTER_PUBLICATION.md](PORTMASTER_PUBLICATION.md)
-
