@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "pocketdesk.zip",
+  "items": [
+    "PocketDesk.sh",
+    "pocketdesk"
+  ],
+  "items_opt": null,
+  "attr": {
+    "title": "PocketDesk",
+    "desc": "Retro pocket desk tools prototype for R36S.",
+    "inst": "Ready to run. Requires the Love2D 11.5 runtime in PortMaster.",
+    "genres": [
+      "utility"
+    ],
+    "porter": [
+      "Gabriel"
+    ],
+    "image": {},
+    "rtr": true,
+    "runtime": "love_11.5",
+    "reqs": [],
+    "arch": null
+  }
+}

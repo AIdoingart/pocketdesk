@@ -1,0 +1,57 @@
+PocketDesk - instalacao manual no R36S / dArkOS RE
+
+Copie estes dois itens para /roms/ports/:
+
+1. PocketDesk.sh
+2. pasta pocketdesk
+
+O resultado precisa ficar assim:
+
+/roms/ports/PocketDesk.sh
+/roms/ports/pocketdesk/pocketdesk.gptk
+/roms/ports/pocketdesk/lovegame/main.lua
+/roms/ports/pocketdesk/lovegame/assets/wallpapers/galaxy.png
+/roms/ports/pocketdesk/lovegame/assets/fonts/PressStart2P-Regular.ttf
+/roms/ports/pocketdesk/media/cover.png
+
+No PortMaster, instale o runtime:
+
+Love2D 11.5
+
+Se nao abrir, veja um destes logs:
+
+/roms/ports/pocketdesk/log.txt
+/roms/ports/pocketdesk-launch-error.txt
+
+Nesta versao:
+
+- Hora aparece como aba no topo.
+- A tela inicial sempre abre em Hora.
+- Os dois pontos da Hora piscam.
+- As outras abas mostram um relogio pequeno no rodape.
+- Config ajusta hora, minuto, dia, mes e ano.
+- Config troca o filtro de cor do wallpaper.
+- D-PAD ajusta uma vez por clique, sem dano duplo no MTG.
+- Analogicos tambem ajustam campos com direcao natural.
+- A/B/X/Y voltaram como botoes nativos.
+- A barra superior agora nao tem fundo branco.
+- Abas superiores centralizadas.
+- Commander com 4 jogadores fica em grade 2x2.
+- No MTG, X troca a cor do player selecionado.
+- Agenda mostra calendario mensal real ligado a Hora.
+- Notas permite criar, escrever, abrir e apagar notas.
+- Notas tem teclado virtual: D-PAD move, A escolhe, B apaga, Y quebra linha.
+- Em Notas, Start abre formatacao simples.
+- Teclado de Notas em QWERTY com numeros em cima.
+- Teclado de Notas tem espaco largo e OK unico.
+- Titulo Markdown vira nome da nota na lista.
+- Timer e MTG ja tem controles basicos.
+- MTG pergunta Normal ou Commander; use qualquer direcao do D-PAD para alternar.
+- Commander pergunta quantidade de players.
+- Toda a interface usa PressStart2P-Regular.ttf.
+
+O erro mais comum e extrair o ZIP assim:
+
+/roms/ports/pocketdesk-portmaster-love/PocketDesk.sh
+
+Se isso acontecer, mova PocketDesk.sh e a pasta pocketdesk para /roms/ports/.

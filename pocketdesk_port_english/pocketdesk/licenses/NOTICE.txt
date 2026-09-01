@@ -1,0 +1,3 @@
+PocketDesk prototype assets supplied by the user.
+
+Runtime expected: PortMaster Love2D 11.5.
