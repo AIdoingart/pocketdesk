@@ -1,0 +1,13 @@
+back = esc
+start = f1
+select = f2
+a = return
+b = f3
+x = space
+y = tab
+l1 = q
+r1 = e
+up = up
+down = down
+left = left
+right = right

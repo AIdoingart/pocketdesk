@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./PocketDesk.sh</path>
+    <name>PocketDesk</name>
+    <desc>Retro pocket desk tools prototype for R36S and dArkOS RE.</desc>
+    <releasedate>20260821T000000</releasedate>
+    <developer>Gabriel</developer>
+    <publisher>Gabriel</publisher>
+    <genre>Utility</genre>
+    <image>./pocketdesk/media/cover.png</image>
+  </game>
+</gameList>
